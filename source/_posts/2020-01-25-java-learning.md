@@ -6,9 +6,9 @@ author: Ground Zhou
 description: 整理了Java的一些知识点。
 ---
 
-# 对象与类
+# 1. 对象与类
 
-## 面向对象程序设计(Object Oriented Programming)
+## 1.1 面向对象程序设计(Object Oriented Programming)
 
 ![](http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuGh9BCb9LNWvTz7J2HDVx6z_lgBxoOu-2FVf-fqlDYvyFgi5AFXqL_-BTVjUh5i857osVWfNOavEVdbkPaLcNZfNSNPcNa5YKMAkGb5gSabYNZhGm6ekpgByqhmKv_oYlDGY1IDJhbekBeIqVm1GXGAIUgMdhIkURcnuDdN3izvrIWg9nGefYIM9G2N9YKKf2X276Q9oZL2vnbn0FbIXWgwk7Sm0g69C8ME44AhR_C5koq_A0We17GOE1KEmc_8DmL8A2X11Y6k10hKOweqWwes8LMyCKM-CIptChy-cxNosUQeXAjS8bGiE2QX2i1_p3U42a738Du8BG48XtnWO1WwfUId09040)
 ![](http://www.plantuml.com/plantuml/svg/lPHTJW8n4CVVUue-BX4UVDU4A2QIY9hW1MQt4xQassBR9MxKatWAdqsyZV4Q3hjTt0f-a1Xu6cP-pFpdemoT1-lBGh4RwHNoQxJEwFVdbxUdLyQQR_peOJ3WPyL2cGgHjKRZde266Te8dVfIeFQCGUgyXSppJ85p8Jc_PvmF-CBA9NWas4ezuneA9Fz1W9AEkrVx5sMgPDRYC_GZT9cL2o-9tePuqnXnC3L68MYEjoKebrobSoHznkTe6pkYfVOy1vUV6e6_5Nbah6bpFQ2uKPgq3oartlcnuCVyC2A4eTm4WW9RHP4Bau4QhQnSMXn175sbb89rvRKQkdFinmNwzUyg1DjOXT4-Rqm1LM_7R14V8hIaQHsCH_VP307dqWBrasoCdM9Z4RkNHWhkDlsXd0NfC1GChhIYSyhe5YE-imcgSbal8zdrolPmIE4TRNym1SoDPN6c6e-NrAM_QN6oYlsj_xMqyEo_I6kdRdJf8ca1_vzh_FcwsYCvMOb8kehsipvE7vhJ4BMWlzKF)
@@ -18,7 +18,7 @@ description: 整理了Java的一些知识点。
 Title 面向过程与面向对象的程序设计对比
 allowmixing
 skinparam rectangle {
-  roundCorner 25
+	roundCorner 25
 }
 
 rectangle OP {
@@ -111,7 +111,7 @@ class Manager {
 @enduml
 ```
 
-### 类
+### 1.1.1 类
 
 - 类（class）
 - 构造（condtruct）
@@ -122,37 +122,37 @@ class Manager {
 - 状态（state）
 - 继承（inheritance）
 
-### 对象
+### 1.1.2 对象
 
 - 对象的行为（behavior）
 - 对象的状态（state）
 - 对象标识（identity）
 
-### 类之间的关系
+### 1.1.3 类之间的关系
 
 - 依赖（“use-a”）
 - 聚合（“has-a”）
 - 继承（“is-a”)
 
-## 自定义类
+## 1.2 自定义类
 
-## 静态域与静态方法
+## 1.3 静态域与静态方法
 
-## 对象构造
+## 1.4 对象构造
 
-## 包
+## 1.5 包
 
-## 文档注释
+## 1.6 文档注释
 
-## 类设计技巧
+## 1.7 类设计技巧
 
-# 继承
+# 2. 继承
 
-## 类、超类、子类
+## 2.1 类、超类、子类
 
-## Object类
+## 2.2 Object类
 
-## 继承的设计技巧
+## 2.3 继承的设计技巧
 
-# 接口
+# 3. 接口
 
