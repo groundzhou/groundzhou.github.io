@@ -1,14 +1,18 @@
 ---
 title: Linux系统及软件常用配置
-description: 记录日常使用Linux及部分软件时的常用配置。
 tags: Linux
+description: 记录日常使用Linux及部分软件时的常用配置。
+date: 2020-04-24 21:29:03
 ---
+
 
 # 1. 硬盘挂载
 
 配置文件：`/etc/fstab`
 
-`UUID=3640EF3040EEF611 /home/ground/share ntfs-3g uid=ground,gid=ground,hide_hid_files,dmask=022,fmask=033 0 0`
+```
+UUID=uuid mountp-oint ntfs-3g uid=ground,gid=ground,hide_hid_files,dmask=022,fmask=033 0 0
+```
 
 # 2. 科学上网
 
