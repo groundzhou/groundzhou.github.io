@@ -8,6 +8,3 @@ tags: blog
 - [ ] Git
 - [ ] Linux configuration
 - [ ] HTTP CORS
-- [ ] Deep Learning
-- [ ] Machine Learning
-- [ ] 数学建模
